@@ -54,13 +54,15 @@ public class SimpleBot {
 
         boolean rightAnswer=false;
 
-        while(rightAnswer){
-            if(answer!= 4){
+        while(!rightAnswer){
+            if(answer!= 1){
                 System.out.println("Please, try again");
+                test();
             }
-            else
+            else {
                 rightAnswer =true;
-                System.out.println("Congratulations, have a nice day");
+            }
+
         }
 
     }
