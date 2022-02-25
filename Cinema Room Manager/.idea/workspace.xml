@@ -4,16 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de078a30-9b1d-4605-9454-5a9c5905c386" name="Changes" comment="" />
+    <list default="true" id="53c2ff28-5c80-4860-a429-2ba7950591ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/NewCustomerStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/com/example/boardingpassjavafx/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/com/example/boardingpassjavafx/PopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/com/example/boardingpassjavafx/PrimaryFXML.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/com/example/boardingpassjavafx/Scene1style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Errors_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Errors_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Sold_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Sold_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cinema Room Manager/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/BoardingPass/BoardingPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/BoardingPass/BoardingPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Person/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Person/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BoardingPassJavaFX/src/main/java/Secondary/PhoneNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="24RuGr9deppogZIa0SlhkPImUMf" />
+  <component name="ProjectId" id="24XK72MUJHDgxfdpmDFzweyOLrC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,18 +53,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -71,11 +97,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de078a30-9b1d-4605-9454-5a9c5905c386" name="Changes" comment="" />
-      <created>1643605627508</created>
+      <changelist id="53c2ff28-5c80-4860-a429-2ba7950591ba" name="Changes" comment="" />
+      <created>1643771320526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643605627508</updated>
+      <updated>1643771320526</updated>
     </task>
     <servers />
   </component>
@@ -90,8 +116,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Cinema_Room_Manager$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1643606072616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
